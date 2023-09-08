@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<inimene synd="1926">
+	<nimi>Elizabeth 2</nimi>
+	<lapsed>
+		<inimene synd= "1948">
+			<nimi>Charles, prince of wales</nimi>
+			<lapsed>
+				<inimene synd ="1982">
+					<nimi>William, Prince of Wales</nimi>
+					<lapsed>
+						<inimene synd= "2013">
+							<nimi>Charlot</nimi>
+						</inimene>
+
+						<inimene synd= "2015">
+							<nimi>Luise</nimi>
+						</inimene>
+
+						<inimene synd= "2015">
+							<nimi>Georg</nimi>
+						</inimene>
+					</lapsed>
+				</inimene>
+
+				<inimene synd ="1984">
+					<nimi>Harry, Duke of Sussex</nimi>
+					<lapsed>
+						<inimene synd= "2021">
+							<nimi>Elibed</nimi>
+						</inimene>
+
+						<inimene synd= "2019">
+							<nimi>Arch</nimi>
+						</inimene>
+
+					</lapsed>
+
+				</inimene>
+			</lapsed>
+		</inimene>
+
+		<inimene synd= "1948">
+			<nimi>Anna</nimi>
+
+
+
+
+		</inimene>
+
+		<inimene synd= "1948">
+			<nimi>Edward</nimi>
+
+
+
+
+		</inimene>
+
+		<inimene synd= "1948">
+			<nimi>Endrev</nimi>
+
+
+
+
+		</inimene>
+	</lapsed>
+</inimene>
